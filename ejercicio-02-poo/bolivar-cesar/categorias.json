@@ -1,0 +1,17 @@
+[
+  {
+    "Nombre": "Trabajo",
+    "Color": "Rojo",
+    "Descripcion": "Tareas del trabajo"
+  },
+  {
+    "Nombre": "Personal",
+    "Color": "Azul",
+    "Descripcion": "Tareas de la vida diaria"
+  },
+  {
+    "Nombre": "Estudio",
+    "Color": "Verde",
+    "Descripcion": "Tareas de estudio"
+  }
+]

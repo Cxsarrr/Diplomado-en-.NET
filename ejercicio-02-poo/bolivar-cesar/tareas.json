@@ -1,0 +1,46 @@
+[
+  {
+    "Tipo": "Tarea",
+    "Id": 1,
+    "Titulo": "Tarea Simple 1",
+    "Descripcion": "Descripcion Tarea 1",
+    "Prioridad": 2,
+    "Categoria": "Trabajo",
+    "Completada": true,
+    "FechaCreacion": "2026-07-26T17:11:38.697466-05:00",
+    "FechaVencimiento": null
+  },
+  {
+    "Tipo": "TareaConVencimiento",
+    "Id": 2,
+    "Titulo": "Tarea Vencida 1",
+    "Descripcion": "Esta tarea ya expiro",
+    "Prioridad": 3,
+    "Categoria": "Personal",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T17:11:38.720567-05:00",
+    "FechaVencimiento": "2020-01-01T00:00:00"
+  },
+  {
+    "Tipo": "TareaConVencimiento",
+    "Id": 3,
+    "Titulo": "Tarea Futura 1",
+    "Descripcion": "Esta tarea vence despues",
+    "Prioridad": 1,
+    "Categoria": "Estudio",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T17:11:38.720607-05:00",
+    "FechaVencimiento": "2028-12-31T00:00:00"
+  },
+  {
+    "Tipo": "Tarea",
+    "Id": 5,
+    "Titulo": "Tarea de Ejemplo",
+    "Descripcion": "Esto es un ejemplo",
+    "Prioridad": 2,
+    "Categoria": "Personal",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T17:33:16.078895-05:00",
+    "FechaVencimiento": null
+  }
+]
